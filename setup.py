@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="compyte-kernel",
-    version="0.0.1-alpha",
+    version="0.0.1-alpha2",
     author="AutomaCoin Devs",
     author_email="alessio.proietti@protonmail.com",
     description="A compute kernel",
